@@ -1,0 +1,19 @@
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\bin\Debug\net5.0\TCP Client.exe
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\bin\Debug\net5.0\TCP Client.deps.json
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\bin\Debug\net5.0\TCP Client.runtimeconfig.json
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\bin\Debug\net5.0\TCP Client.runtimeconfig.dev.json
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\bin\Debug\net5.0\TCP Client.dll
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\bin\Debug\net5.0\TCP Client.pdb
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\bin\Debug\net5.0\DiceResultLib.dll
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\bin\Debug\net5.0\DiceResultLib.pdb
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\obj\Debug\net5.0\TCP Client.csproj.AssemblyReference.cache
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\obj\Debug\net5.0\TCP Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\obj\Debug\net5.0\TCP Client.AssemblyInfoInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\obj\Debug\net5.0\TCP Client.AssemblyInfo.cs
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\obj\Debug\net5.0\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\obj\Debug\net5.0\TCP Client.csproj.CopyComplete
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\obj\Debug\net5.0\TCP Client.dll
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\obj\Debug\net5.0\refint\TCP Client.dll
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\obj\Debug\net5.0\TCP Client.pdb
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\obj\Debug\net5.0\TCP Client.genruntimeconfig.cache
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\TCP Client\TCP Client\obj\Debug\net5.0\ref\TCP Client.dll

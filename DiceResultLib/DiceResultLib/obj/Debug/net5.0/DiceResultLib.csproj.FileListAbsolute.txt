@@ -1,0 +1,12 @@
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\bin\Debug\net5.0\DiceResultLib.deps.json
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\bin\Debug\net5.0\DiceResultLib.dll
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\bin\Debug\net5.0\DiceResultLib.pdb
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\obj\Debug\net5.0\DiceResultLib.csproj.AssemblyReference.cache
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\obj\Debug\net5.0\DiceResultLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\obj\Debug\net5.0\DiceResultLib.AssemblyInfoInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\obj\Debug\net5.0\DiceResultLib.AssemblyInfo.cs
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\obj\Debug\net5.0\DiceResultLib.csproj.CoreCompileInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\obj\Debug\net5.0\DiceResultLib.dll
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\obj\Debug\net5.0\refint\DiceResultLib.dll
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\obj\Debug\net5.0\DiceResultLib.pdb
+C:\Users\Lobyl\Documents\3. Semester\Exam13062022\DiceResultLib\DiceResultLib\obj\Debug\net5.0\ref\DiceResultLib.dll
